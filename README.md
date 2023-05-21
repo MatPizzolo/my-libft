@@ -1,17 +1,5 @@
 # `Libft`
 
-<h3 align="center">
-	<a href="#%EF%B8%8F-about">About</a>
-	<span> · </span>
-	<a href="#-index">Index</a>
-	<span> · </span>
-	<a href="#%EF%B8%8F-usage">Usage</a>
-	<span> · </span>
-	<a href="#-testing">Testing</a>
-</h3>
-
----
-
 ## 🗣️ About
 
 > _The aim of this project is to code a C library regrouping usual functions that you'll be allowed to use in all your other projects._
